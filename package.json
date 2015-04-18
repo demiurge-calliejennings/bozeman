@@ -1,0 +1,22 @@
+{
+  "name": "Bozeman",
+  "version": "0.0.1",
+  "description": "Project Bozeman Prototype",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/demiurge-willjennings/bozeman.git"
+  },
+  "author": "Will Jennings-Hess",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demiurge-willjennings/bozeman/issues"
+  },
+  "homepage": "https://github.com/demiurge-willjennings/bozeman",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
