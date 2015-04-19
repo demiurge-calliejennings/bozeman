@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/demiurge-willjennings/bozeman",
   "dependencies": {
-    "express": "^4.12.3"
+    "express": "^4.12.3",
+    "react": "^0.13.2"
+  },
+  "engines": {
+    "node": "0.12.x"
   }
 }
